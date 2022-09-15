@@ -1,0 +1,15 @@
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\bin\Debug\net6.0\ChooseYourPath.exe
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\bin\Debug\net6.0\ChooseYourPath.deps.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\bin\Debug\net6.0\ChooseYourPath.runtimeconfig.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\bin\Debug\net6.0\ChooseYourPath.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\bin\Debug\net6.0\ChooseYourPath.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.csproj.AssemblyReference.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.AssemblyInfoInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.AssemblyInfo.cs
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.csproj.CoreCompileInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\refint\ChooseYourPath.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ChooseYourPath.genruntimeconfig.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\ChooseYourPath\ChooseYourPath\obj\Debug\net6.0\ref\ChooseYourPath.dll
